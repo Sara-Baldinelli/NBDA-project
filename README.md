@@ -2,7 +2,7 @@
 Project for the Network-based Data Analysis course held by Professor Mario Lauria at University of Trento (M.Sc. in Quantitative and Computational Biology, 2023-2024).
 
 ## Project Overview
-This repository contains the code and data analysis workflows used in the study of RNA expression profiles among different survival groups in Amyotrophic Lateral Sclerosis (ALS). The project aims to uncover significant molecular pathways and gene interactions associated with ALS progression, leveraging various computational techniques and machine learning algorithms. \
+This repository contains the report of the study of RNA expression profiles among different survival groups in Amyotrophic Lateral Sclerosis (ALS). The project aims to uncover significant molecular pathways and gene interactions associated with ALS progression, leveraging various computational techniques and machine learning algorithms. \
 The repository also contains the PDF of the poster, related to the project, presented at the SIBBM 2024 - Frontiers in Molecular Biology conference.
 
 ## Dataset
